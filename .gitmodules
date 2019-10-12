@@ -1,0 +1,9 @@
+[submodule "seminar_docker"]
+	path = seminar_docker
+	url = https://github.com/HukoOo/seminar_docker
+[submodule "seminar_ros"]
+	path = seminar_ros
+	url = https://github.com/HukoOo/seminar_ros
+[submodule "seminar_optimization"]
+	path = seminar_optimization
+	url = https://github.com/HukoOo/seminar_optimization
